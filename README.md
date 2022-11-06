@@ -7,7 +7,10 @@ While driving around you receive a coupon on your cellphone for a restaurant, a 
 
 Summary of Findings:
 
-After the initial cleaning of the data, I carried out analysis to answer specific questions. Most importantly I focused on the Bar coupons and Coffee House coupons. See jupyter notebook: "https://github.com/LudovicBernard98/Practical-Application-5.1--Will-the-Customer-Accept-the-Coupon/blob/main/prompt.ipynb" to have access to the code. A challenge I encountered since I used plotly as a python package, you cannot see the graphs. To address that shortcoming, I converted the notebook in a pdf file where you will be able to enjoy the visualization.
+After the initial cleaning of the data, I carried out analysis to answer specific questions. Most importantly I focused on the Bar coupons and Coffee House coupons. See jupyter notebook: "https://github.com/LudovicBernard98/Practical-Application-5.1--Will-the-Customer-Accept-the-Coupon/blob/main/prompt.ipynb" to have access to the code. 
+
+A challenge I encountered which I realized when pushing the notebook in Github is that plotly graph do not show in a notebook. I tried many potential solutions without success. Spending a lot of time, exploring solutions, I was not able to appropriatly address the issue. For this reason, I have provided a PDF file which should be consulted in parallel showing the various visualizations I used. PDF with Graph: https://github.com/LudovicBernard98/Practical-Application-5.1--Will-the-Customer-Accept-the-Coupon/blob/main/prompt.graph.show.pdf
+This was an important learning curve with many hours spent trying to maintain the integrity of my work. Next GitHub assignment, I will focus on other Python packages which will remedy such problems.
 
 Here are the main attributes I found to be significant.
 
