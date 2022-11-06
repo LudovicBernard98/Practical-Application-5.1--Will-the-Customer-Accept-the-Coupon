@@ -7,7 +7,7 @@ While driving around you receive a coupon on your cellphone for a restaurant, a 
 
 Summary of Findings:
 
-After the initial cleaning of the data, I carried out analysis to answer specific questions. Most importantly I focused on the Bar coupons and Coffee House coupons. (see jupyter notebook: "https://github.com/LudovicBernard98/Practical-Application-5.1--Will-the-Customer-Accept-the-Coupon/blob/main/prompt.ipynb")
+After the initial cleaning of the data, I carried out analysis to answer specific questions. Most importantly I focused on the Bar coupons and Coffee House coupons. See jupyter notebook: "https://github.com/LudovicBernard98/Practical-Application-5.1--Will-the-Customer-Accept-the-Coupon/blob/main/prompt.ipynb" to have access to the code. A challenge I encountered since I used plotly as a python package, you cannot see the graphs. To address that shortcoming, I converted the notebook in a pdf file where you will be able to enjoy the visualization.
 
 Here are the main attributes I found to be significant.
 
@@ -17,3 +17,4 @@ Here are the main attributes I found to be significant.
 4. Coffee House acceptance was much higher for  the hours of 10AM and 2PM. Hence, time of day is has an important impact of coffee house coupon acceptance.
 5. A sunny and hot day, increase the likelyhood of people accepting a Coffee House coupon.
 6. The same direction of the coupon offered had an marginal impact on the acceptance rate of coffee house coupons.
+
