@@ -11,6 +11,7 @@ After the initial cleaning of the data, I carried out analysis to answer specifi
 
 A challenge I encountered which I realized when pushing the notebook in Github is that plotly graph do not show in a notebook. I tried many potential solutions without success. Spending a lot of time, exploring solutions, I was not able to appropriatly address the issue. For this reason, I have provided a PDF file which should be consulted in parallel showing the various visualizations I used. PDF with Graph: https://github.com/LudovicBernard98/Practical-Application-5.1--Will-the-Customer-Accept-the-Coupon/blob/main/prompt.graph.show.pdf
 This was an important learning curve with many hours spent trying to maintain the integrity of my work. Next GitHub assignment, I will focus on other Python packages which will remedy such problems.
+If the medium of submission hinders the grading of my work, I will gladly modify my work and transform my plots in sns.
 
 Here are the main attributes I found to be significant.
 
